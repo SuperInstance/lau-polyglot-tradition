@@ -2,6 +2,9 @@
 name = "lau-polyglot-tradition"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository = "https://github.com/SuperInstance/lau-polyglot-tradition"
+description = "Rust library for polyglot tradition in the PLATO ecosystem"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
